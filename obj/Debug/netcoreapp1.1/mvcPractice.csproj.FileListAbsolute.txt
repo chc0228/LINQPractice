@@ -1,0 +1,8 @@
+/Users/joechan/Desktop/Core/mvcPractice/bin/Debug/netcoreapp1.1/mvcPractice.deps.json
+/Users/joechan/Desktop/Core/mvcPractice/bin/Debug/netcoreapp1.1/mvcPractice.runtimeconfig.json
+/Users/joechan/Desktop/Core/mvcPractice/bin/Debug/netcoreapp1.1/mvcPractice.runtimeconfig.dev.json
+/Users/joechan/Desktop/Core/mvcPractice/bin/Debug/netcoreapp1.1/mvcPractice.dll
+/Users/joechan/Desktop/Core/mvcPractice/bin/Debug/netcoreapp1.1/mvcPractice.pdb
+/Users/joechan/Desktop/Core/mvcPractice/obj/Debug/netcoreapp1.1/mvcPractice.AssemblyInfo.cs
+/Users/joechan/Desktop/Core/mvcPractice/obj/Debug/netcoreapp1.1/mvcPractice.dll
+/Users/joechan/Desktop/Core/mvcPractice/obj/Debug/netcoreapp1.1/mvcPractice.pdb
